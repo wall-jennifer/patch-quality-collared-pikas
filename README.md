@@ -1,2 +1,8 @@
-# patch-quality-collared-pikas
-Patch quality affords behavioral flexibility in collared pikas (&lt;i>Ochotona collaris&lt;/i>), potentially increasing climate resiliency 
+# Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency 
+### Jennifer L. Wall and Jedediah F. Brodie
+
+## Abstract
+Climate disruption threatens the persistence of temperature-sensitive species in many regions. Some species may be able to moderate hyperthermia risk by using cooler subsurface microclimates, a strategy that could afford some level of population resilience. However, such behavioral responses may interact with environmental factors, making it challenging to determine vulnerability. Here we assessed the extent to which collared pikas (*Ochotona collaris*), a temperature-sensitive boreal lagomorph, use below-talus microclimates as thermal refuges and whether environmental factors influence the plasticity of these responses, in order to assess the species’ vulnerability to regional warming. We monitored pika activity in Denali National Park and Preserve, Alaska, USA, with camera traps and temperature loggers (above and below ground), finding that pikas adjusted their activity in response to temperature, with peak activity at 13.9oC. Activity levels appeared driven by surface rather than subsurface temperatures, highlighting that regional warming could influence the species in ways that are not buffered by below ground thermal refugia. However, we also detected an interaction between patch quality and surface temperature, such that pikas were more active at cooler temperatures in talus patches with more vegetation. This suggests that pikas in better habitat could be more resilient to warming as they are afforded more flexibility in their diel activity patterns before reaching the upper limits of thermal tolerance. Overall, our results highlight that behavior and environment can interact to influence species’ resilience to climate change.
+
+## Code
+  1. TBD
